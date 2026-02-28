@@ -1,4 +1,4 @@
-# Gated Community AI Application
+ # Gated Community AI Application
 
 ## Project Structure
 
