@@ -2,7 +2,7 @@
 
  ## Project Structure
 
-```
+ ```
 gated_community_ai/
 ├── backend/
 │   ├── controllers/       # Business logic
