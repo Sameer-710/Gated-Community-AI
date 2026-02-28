@@ -1,6 +1,6 @@
  # Gated Community AI Application
 
-## Project Structure
+ ## Project Structure
 
 ```
 gated_community_ai/
